@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\jwein\source\repos\AnimeProject\Header.h(97,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\Header.h(524,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\Header.h(532,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\Header.h(621,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\Header.h(748,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\Header.h(769,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jwein\source\repos\AnimeProject\MyForm.h(973,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jwein\source\repos\AnimeProject\MyForm.h(1009,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jwein\source\repos\AnimeProject\MyForm.cpp(14,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AnimeProject.vcxproj -> C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.exe

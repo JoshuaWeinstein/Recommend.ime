@@ -1,0 +1,5 @@
+C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.vcxprojAssemblyReference.cache
+C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.MyForm.resources
+C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.vcxproj.GenerateResource.cache
+C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.exe
+C:\Users\jwein\source\repos\AnimeProject\Debug\AnimeProject.pdb
